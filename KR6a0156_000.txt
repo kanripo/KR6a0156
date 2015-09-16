@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說阿含正行經
+#+DATE: 2015-08-30 19:33:04.618560
+#+PROPERTY: JUAN 0
