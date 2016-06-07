@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:33:04.435625
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:47
 #+TITLE: 佛說阿含正行經
 #+PROPERTY: CBETA_ID T02n0151
 #+PROPERTY: ID KR6a0156
